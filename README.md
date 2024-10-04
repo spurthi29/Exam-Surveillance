@@ -51,7 +51,7 @@ Replace `<video_source>` with the path to your video file, webcam index, or URL.
 - **Monitoring a Live Exam:** Captures real-time activities in an examination hall.
 - **Cheating Detection Alerts:** Generates audio alerts when suspicious behavior is detected.
 
-[Implementation]()
+
 
 ## License
 
