@@ -10,7 +10,6 @@
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
 - [Output](#output)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
@@ -29,20 +28,6 @@
 - **Mutagen** for handling audio file formats.
 - **Pygame** for playing audio alerts.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/exam-surveillance-ml.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd exam-surveillance-ml
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
